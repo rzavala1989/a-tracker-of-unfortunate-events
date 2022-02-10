@@ -20,7 +20,8 @@ export default function App() {
     };
     fetchEvents();
     console.log(eventData);
-  }, [eventData]);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
 
   return (
     <div>
