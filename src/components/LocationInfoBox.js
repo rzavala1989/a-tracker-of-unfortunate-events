@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { Icon } from '@iconify/react';
 import close from '@iconify/icons-mdi/close-circle';
 

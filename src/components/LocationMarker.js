@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { Icon } from '@iconify/react';
 import fireIcon from '@iconify/icons-mdi/fire-alert';
 import caneIcon from '@iconify/icons-mdi/hurricane';

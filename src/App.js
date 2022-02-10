@@ -20,7 +20,7 @@ export default function App() {
     };
     fetchEvents();
     console.log(eventData);
-  }, []);
+  }, [eventData]);
 
   return (
     <div>
